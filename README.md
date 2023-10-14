@@ -1,10 +1,10 @@
-# Web Development Project 4 - *Name of App Here*
+# Web Development Project 4 - Learn More Abouts Cats
 
-Submitted by: **Your Name Here**
+Submitted by: Joseph Vargas
 
-This web app: **insert description**
+This web app: displays information about randomly selected cats using TheCatApi. The user can see a cat and learn its average weight, lifespan, country of origin, temperment, and name.
 
-Time spent: **X** hours spent in total
+Time spent: 5 hours spent in total
 
 ## Required Features
 
@@ -33,7 +33,7 @@ Here's a walkthrough of implemented user stories:
 ![GIF](https://github.com/jv12319/Cat/blob/main/web102project4BetterGif.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ...  ScreenToGif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -42,6 +42,8 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+Challenges I faced while creating the app was originally figuring the specific syntax to incorporate information from the cat api.
 
 ## License
 
